@@ -1,0 +1,42 @@
+/* 
+
+  .body_contain{
+    position: absolute;
+    top:25%;
+    left: 15%;
+    background-color: white ;
+    margin: 10px;
+    height: auto;
+    width: auto;
+    
+  
+  }
+  .image_set{
+    position: absolute;
+    top: 21%;
+    right: 10%;
+  }
+  .step_set{
+position: absolute;
+left: 5%;
+  }
+  .create_btn{
+    width:15%;;
+margin-left: 39%;
+background-color: red;
+border-radius: 10px;
+padding: 10px;
+margin-top: 5px;
+  } */
+  .create_btn{
+    width:15%;;
+/* margin-left: 39%; */
+background-color:#F1D3CE;
+border-radius: 10px;
+padding: 10px;
+margin-top: 10px;
+  } 
+  .middle_img_set img{
+    width:100%;
+  }
+  
